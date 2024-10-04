@@ -54,7 +54,7 @@ A 5-minute demo video is included, showcasing the project's workflow and key fin
 
 ## Project Updates
 
-Regular updates have been committed to the GitHub repository throughout the development process. A screenshot of the commit history is included in the notebook to provide evidence of ongoing work.
+Regular updates have been committed to the GitHub repository throughout the development process. A screenshot of the commit history is included in the notebook to provide evidence of ongoing work. For Weekly Tasks Updates, please refer to the Weekly Tasks Folders.
 
 ## Contact
 
