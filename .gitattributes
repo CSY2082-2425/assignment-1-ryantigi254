@@ -1,4 +1,4 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
 Regression/Weekly[[:space:]]Tasks/AI[[:space:]]Assisted[[:space:]]Code/models/randomforest_model.pkl filter=lfs diff=lfs merge=lfs -text
 *.joblib filter=lfs diff=lfs merge=lfs -text
-
+Regression/Weekly[[:space:]]Tasks/AI[[:space:]]Assisted[[:space:]]Code/models/RandomForest/rf_model.joblib filter=lfs diff=lfs merge=lfs -text
