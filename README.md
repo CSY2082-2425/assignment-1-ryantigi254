@@ -1,61 +1,85 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gJphWI0v)
 
-
 # README
 
 ## Introduction
 
-This project involves analyzing housing sales data for a large U.S. estate agent. The goal is to clean and explore the dataset, visualize key insights, and develop machine learning models to help improve the company's business operations.
+This project analyzes housing sales data for a large U.S. estate agent. The goal is to clean and explore the dataset, visualize key insights, and develop machine learning models to improve the company's business operations.
 
 ## Project Structure
 
-- **Data Exploration**: We start by examining the dataset to understand the current housing market. This includes creating visualizations to highlight trends and patterns that could be valuable to the client.
+The project is organized into the following main components:
 
-- **Data Preprocessing**: The dataset is cleaned by handling missing values and reformatting data where necessary to prepare it for modeling.
+1. **Weekly Tasks**: Contains task files, progress reports, and outputs for each week.
+   - Location: `Weekly Tasks` folder
+   - Contents: `Task [Number].ipynb` files, weekly progress reports, `models` subfolder, visualization outputs
 
-- **Regression Model**: A model is built to predict house prices based on various features. The model's performance is evaluated using a train/test split.
+2. **AI Assisted Code**: Documents the AI-assisted development process.
+   - Location: `AI Assisted Code` folder
+   - Key files: Brief report on AI use, `Task [Number] AI assisted.ipynb`
 
-- **Clustering and Classification**:
-  - **Clustering**: We determine the optimal number of specialized teams (such as luxury, affordable, budget) by grouping houses based on price points.
-  - **Classification Model**: A model is developed to assign new houses to the appropriate team. This model is also evaluated using a train/test split.
+3. **Main Analysis**: Primary analysis and modeling tasks.
+   - Location: Root directory
+   - Files: `Task [Number].ipynb`
 
-- **Recommendations**: We suggest additional data that could further improve the models and develop a prototype if possible.
+4. **Additional Resources**: Assignment details and revision notes.
+   - Location: Root directory
+
+## How to Navigate the Project
+
+1. Start with the `Weekly Tasks` folder for a chronological overview of the project's progress.
+2. Explore the main task files in the root directory for detailed analysis and modeling.
+3. Check the `AI Assisted Code` folder for insights into the development process and AI contributions.
+4. Review the revision notes in the root directory for additional context and explanations.
 
 ## How to Run the Notebook
 
 1. **Prerequisites**:
-   - Python 3.x
-   - Jupyter Notebook or a compatible environment
-   - Required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+   - Python 3.12.5
+   - Jupyter Notebook
+   - Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 2. **Installation**:
-   - Install the necessary libraries using pip:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+   ```
+
+3. **Setting up the Project**:
+   - Clone the repository to your local machine.
+   - Open a terminal and navigate to the project folder.
+   - Set up a virtual environment (recommended):
      ```bash
-     pip install pandas numpy matplotlib seaborn scikit-learn
+     python -m venv venv
+     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+     ```
+   - Install the required packages in the virtual environment:
+     ```bash
+     pip install -r requirements.txt
      ```
 
-3. **Running the Notebook**:
-   - Open the `.ipynb` file in Jupyter Notebook.
-   - Run each cell in order to execute the code and see the results.
+4. **Running the Notebooks with Jupyter**:
+   - Launch Jupyter Notebook from the terminal:
+     ```bash
+     jupyter notebook
+     ```
+   - In the Jupyter interface, navigate to the project folder and open the desired `.ipynb` file.
+   - Execute cells sequentially to see the results.
+
+5. **Alternative: Using an IDE**:
+   - If preferred, you can use an IDE like PyCharm, VSCode, or Spyder.
+   - Open the `.ipynb` files in your IDE's notebook interface.
+   - For VSCode, install the "Jupyter" extension.
+   - For PyCharm, ensure you have the "DataSpell" plugin or use the built-in notebook support.
+   - Execute cells sequentially to see the results.
+
 
 ## Branching Strategy
 
-To manage iterative development and testing of various models and use cases, we've implemented a branching strategy using `testing` and `development` branches:
+We use a `development` branch for active development and a `testing` branch for validation before merging into the main branch.
 
-- **Development Branch**: This is where new features and models are developed. It's the main working branch where code is actively being written and updated.
+## Additional Information
 
-- **Testing Branch**: Once changes in the development branch are ready, they are merged into the testing branch. Here, we perform various tests to ensure that the models and code behave as expected.
+- A 5-minute demo video is included to showcase the project's workflow and key findings.
+- Regular updates have been committed to the GitHub repository throughout the development process.
 
-This approach allows us to iteratively improve the models while maintaining a stable codebase. It also makes it easier to track changes and revert if necessary.
-
-## Demo Video
-
-A 5-minute demo video is included, showcasing the project's workflow and key findings. Please ensure you have access to view the video.
-
-## Project Updates
-
-Regular updates have been committed to the GitHub repository throughout the development process. A screenshot of the commit history is included in the notebook to provide evidence of ongoing work.
-
-## Contact
-
-If you have any questions or need further information, feel free to reach out.
+For any questions or further information, please feel free to reach out.
