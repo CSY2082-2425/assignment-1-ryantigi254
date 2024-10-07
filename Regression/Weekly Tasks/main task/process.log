@@ -11,3 +11,7 @@
 2024-10-07 12:54:57,088 - ERROR - File not found at h:\Uni\2nd year\Intro to AI\Clustering\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv.
 2024-10-07 12:54:57,088 - WARNING - Created an empty DataFrame as data could not be loaded.
 2024-10-07 13:02:52,051 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
+2024-10-07 15:12:35,213 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
+2024-10-07 15:15:40,008 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
+2024-10-07 15:20:36,308 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
+2024-10-07 15:21:05,811 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
