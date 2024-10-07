@@ -1,0 +1,13 @@
+2024-10-07 12:52:46,995 - WARNING - Input file not found at h:\Uni\2nd year\Intro to AI\Clustering\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv. Using last path from config.
+2024-10-07 12:52:46,995 - INFO - Input file path: h:\Uni\2nd year\Intro to AI\Clustering\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv
+2024-10-07 12:52:46,995 - INFO - Output file path: h:\Uni\2nd year\Intro to AI\Clustering\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\cleaned_data.csv
+2024-10-07 12:52:47,008 - ERROR - File not found at h:\Uni\2nd year\Intro to AI\Clustering\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv.
+2024-10-07 12:52:47,008 - WARNING - Created an empty DataFrame as data could not be loaded.
+2024-10-07 12:54:54,514 - WARNING - Input file not found at h:\Uni\2nd year\Intro to AI\Clustering\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv. Using last path from config.
+2024-10-07 12:54:54,514 - INFO - Input file path: H:\uni\2nd year\intro to ai\clustering\assignment-1-ryantigi254\regression\weekly tasks\main task\input_data.csv
+2024-10-07 12:54:54,514 - INFO - Output file path: H:\uni\2nd year\intro to ai\clustering\assignment-1-ryantigi254\regression\weekly tasks\main task\cleaned_data.csv
+2024-10-07 12:54:54,529 - ERROR - File not found at h:\Uni\2nd year\Intro to AI\Clustering\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv.
+2024-10-07 12:54:54,530 - WARNING - Created an empty DataFrame as data could not be loaded.
+2024-10-07 12:54:57,088 - ERROR - File not found at h:\Uni\2nd year\Intro to AI\Clustering\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv.
+2024-10-07 12:54:57,088 - WARNING - Created an empty DataFrame as data could not be loaded.
+2024-10-07 13:02:52,051 - ERROR - Error: The file 'cleaned_data.csv' does not exist.

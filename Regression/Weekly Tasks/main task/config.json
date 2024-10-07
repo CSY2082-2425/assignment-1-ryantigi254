@@ -1,0 +1,6 @@
+{
+    "input_file": "input_data.csv",
+    "output_file": "cleaned_data.csv",
+    "log_file": "process.log",
+    "last_path": "input_data.csv"
+}
