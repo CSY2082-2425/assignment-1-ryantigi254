@@ -15,3 +15,9 @@
 2024-10-07 15:15:40,008 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
 2024-10-07 15:20:36,308 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
 2024-10-07 15:21:05,811 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
+2024-10-07 23:55:11,974 - WARNING - Input file not found at g:\Uni\2nd year\Intro to AI\Regression\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv. Using last path from config.
+2024-10-07 23:55:11,974 - INFO - Input file path: G:\uni\2nd year\intro to ai\regression\assignment-1-ryantigi254\regression\weekly tasks\main task\input_data.csv
+2024-10-07 23:55:11,974 - INFO - Output file path: G:\uni\2nd year\intro to ai\regression\assignment-1-ryantigi254\regression\weekly tasks\main task\cleaned_data.csv
+2024-10-07 23:55:11,987 - ERROR - File not found at g:\Uni\2nd year\Intro to AI\Regression\assignment-1-ryantigi254\Regression\Weekly Tasks\main task\input_data.csv.
+2024-10-07 23:55:11,987 - WARNING - Created an empty DataFrame as data could not be loaded.
+2024-10-07 23:55:12,003 - ERROR - Error: The file 'cleaned_data.csv' does not exist.
