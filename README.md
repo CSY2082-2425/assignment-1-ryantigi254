@@ -72,6 +72,10 @@ The project is organized into the following main components:
    - For PyCharm, ensure you have the "DataSpell" plugin or use the built-in notebook support.
    - Execute cells sequentially to see the results.
 
+6. **Important Note on File Paths**:
+   - Be aware that file paths used in the notebooks (especially in `testing.ipynb`, `task1.ipynb`, `task2.ipynb`, and `regression 1.ipynb`) may need to be adjusted to match the paths on your local device.
+   - Ensure that you update these paths before running the notebooks to avoid any file not found errors.
+   - HTML versions of the notebooks are provided in the main tasks folder, showing the last most up-to-date run conducted.
 
 ## Branching Strategy
 
