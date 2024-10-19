@@ -1,0 +1,7 @@
+,price,area,bedrooms,bathrooms,stories,mainroad,guestroom,basement,hotwaterheating,airconditioning,parking,prefarea,furnishingstatus
+7,10150000,16200,5,3,2,yes,no,no,no,no,0,no,unfurnished
+56,7343000,11440,4,1,2,yes,no,yes,no,no,1,yes,semi-furnished
+66,6930000,13200,2,1,1,yes,no,yes,yes,no,1,no,furnished
+259,4473000,6360,2,1,1,yes,no,yes,no,yes,1,no,furnished
+279,4270000,6360,2,1,1,yes,no,no,no,no,0,no,furnished
+280,4270000,6360,2,1,2,yes,no,no,no,no,0,no,unfurnished
