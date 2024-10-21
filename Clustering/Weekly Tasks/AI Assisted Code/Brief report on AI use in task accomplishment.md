@@ -1,11 +1,18 @@
 # Record of AI-Assisted and User-Contributed Code Snippets and Ideas
 
-## 5. AI Tools and Resources Used
+- **AI for Task Adaptation**: In this instance, we leveraged AI more for identifying the slight changes needed from our previous week's task and acting on those insights to ensure we achieve this week's objectives. This approach aimed at enhancing code reusability and conducting research on methods not covered in class.
+
+The focus was on utilizing AI to refine our existing codebase, making incremental improvements to adapt to new requirements. This strategy allowed us to build upon our previous work efficiently, while also exploring novel techniques and ensuring our code remained flexible and reusable for future tasks.
+
+## AI Tools and Resources Used
+
 Throughout this project, I utilized various AI tools and resources to assist with code development, error checking, and visualization. The following AI tools were employed:
+
 - **Cursor AI**: Used for general AI edits and code suggestions.
-- **ChatGPT O1 Preview*: Served as my main AI tutor, providing explanations and guidance on machine learning concepts and implementation.
+- **ChatGPT O1 Preview**: Served as my main AI tutor, providing explanations and guidance on machine learning concepts and implementation.
 - **ChatGPT 4.0 with Canvas**: Utilized for full codebase updates, helping to refine code I initially wrote myself by removing typing errors and other minor issues in the process.
 - **Claude AI**: Employed to create mock interfaces, helping to visualize the code and understand what is actually happening as we tweak weights, optimize cost functions, and make other adjustments.
+
 
 The main reference book used throughout this project was:
 Géron, A., 2019. Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: concepts, tools, and techniques to build intelligent systems. 2nd ed. Sebastopol, CA: O'Reilly Media.
@@ -14,12 +21,11 @@ Anthropic, 2023. Claude AI [Large language model]. Available at: <https://www.an
 
 This comprehensive resources provided invaluable insights into machine learning concepts, tools, and techniques, serving as a foundation for much of the work completed.
 
-## 6. Acknowledgement of AI Assistance
+## Acknowledgement of AI Assistance
+
 I acknowledge that while the writing and implementation are my own, and I take full responsibility for any errors, the aforementioned AI tools were instrumental in various aspects of this project. They assisted in generating initial section structures, providing code suggestions, and helping to visualize complex concepts. The use of these tools has significantly enhanced my understanding of machine learning principles and improved the overall quality of the project.
 
 For more specific details on AI usage, there is a dedicated folder documenting the instances where AI was employed, including the relevant code it generated. Additionally, I have commented directly on this file to indicate the parts that are fully AI-generated.
-
-
 
 ## Introduction
 

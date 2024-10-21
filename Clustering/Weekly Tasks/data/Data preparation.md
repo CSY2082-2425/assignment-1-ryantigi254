@@ -2,7 +2,7 @@
 
 ### Overview of the Process
 
-The goal was to clean, merge, and analyze two housing datasets to find common properties and remove any discrepancies. The steps involved included cleaning, transforming, and merging the datasets, followed by a quality control analysis. Below are detailed notes capturing each stage of the workflow.
+The goal was to enhance the data provided in class, labeled as the "houseprice" dataset, with the "Housing Prices Dataset" identified as a continuation or separate version of the original. This new dataset, sourced from https://www.kaggle.com/datasets/yasserh/housing-prices-dataset, contains more unique features. The process involved cleaning, transforming, and merging these datasets, followed by a quality control analysis to ensure data integrity and consistency. The following notes detail each stage of this enhancement workflow.
 
 ### Files Used in the Process
 
