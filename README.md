@@ -84,6 +84,7 @@ We use a `development` branch for active development and a `testing` branch for 
 ## Additional Information
 
 - A 5-minute demo video is included to showcase the project's workflow and key findings.
+   https://www.loom.com/share/a5c84d93c6824183b02b3a8d98af5e35?sid=e1849064-567d-40fe-8d4e-426fe6dd6397
 - Regular updates have been committed to the GitHub repository throughout the development process.
 
 For any questions or further information, please feel free to reach out.
